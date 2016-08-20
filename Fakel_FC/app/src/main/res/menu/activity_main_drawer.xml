@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_action_news"
+            android:title="@string/news_item" />
+        <item
+            android:id="@+id/nav_table"
+            android:icon="@drawable/ic_action_table"
+            android:title="@string/table_item" />
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/ic_action_team"
+            android:title="@string/team_item" />
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/ic_action_games"
+            android:title="@string/games_item" />
+    </group>
+
+    <item android:title="@string/info_item">
+        <menu>
+            <item
+                android:id="@+id/nav_about_club"
+                android:icon="@drawable/ic_action_about_club"
+                android:title="@string/about_club_item" />
+            <item
+                android:id="@+id/nav_about_app"
+                android:icon="@drawable/ic_action_about_app"
+                android:title="@string/about_app_item" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fakel_FC</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="news_item">Новости</string>
+    <string name="table_item">Таблица</string>
+    <string name="team_item">Команда</string>
+    <string name="games_item">Игры</string>
+    <string name="about_club_item">О клубе</string>
+    <string name="about_app_item">О приложении</string>
+    <string name="info_item">Информация</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
